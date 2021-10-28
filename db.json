@@ -8,11 +8,18 @@
       "id": 2
     },
     {
-      "message": "TEST LOG 3 ",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2021-10-27T11:56:37.427Z",
-      "id": 3
+      "id": 3,
+      "message": "Fixed hard drive on workstation 2",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-10-28T13:02:55.854Z"
+    },
+    {
+      "message": "tesst 7",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-10-28T12:52:42.197Z",
+      "id": 4
     }
   ],
   "techs": [
