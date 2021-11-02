@@ -27,13 +27,6 @@
       "tech": "Sam Smith",
       "date": "2021-10-28T13:42:06.274Z",
       "id": 5
-    },
-    {
-      "message": "yo",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2021-10-28T13:42:22.010Z",
-      "id": 6
     }
   ],
   "techs": [
@@ -51,26 +44,6 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
-    },
-    {
-      "firstName": "Jennifer",
-      "lastName": "Mitchell",
-      "id": 4
-    },
-    {
-      "firstName": "Billy",
-      "lastName": "Gellar",
-      "id": 5
-    },
-    {
-      "firstName": "Joe",
-      "lastName": "Markson",
-      "id": 6
-    },
-    {
-      "firstName": "Rares",
-      "lastName": "Herta",
-      "id": 7
     }
   ]
 }
